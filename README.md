@@ -11,4 +11,4 @@
 
 # To terminate the ec2 instance, run the code bellow;
 
-terraform destroy
+`terraform destroy

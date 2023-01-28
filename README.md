@@ -9,7 +9,7 @@
 
 3. `terraform apply`
 
-# The 2 steps above will provision an ec2 instance on your AWS as described in the terraform configuration file
+# The steps above will initialize terraform and provision an ec2 instance on your AWS as described in the terraform configuration file
 
 # To terminate the ec2 instance, run the code bellow;
 

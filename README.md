@@ -3,7 +3,7 @@
 
 # to run the terraform configuration file, follow the steps bellow;
 
-1. terraform plan
+1. `terraform plan
 
 2. terraform apply
 

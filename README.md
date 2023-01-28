@@ -3,9 +3,9 @@
 
 # to run the terraform configuration file, follow the steps bellow;
 
-1. `terraform plan
+1. `terraform plan`
 
-2. terraform apply
+2. `terraform apply`
 
 # The 2 steps above will provision an ec2 instance on your AWS as described in the terraform configuration file
 

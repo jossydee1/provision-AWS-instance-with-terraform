@@ -1,7 +1,7 @@
 # provision-AWS-instance-with-terraform
 
 
-# to run the terraform configuration file, follow the steps bellow
+# to run the terraform configuration file, follow the steps bellow;
 
 1. terraform plan
 
